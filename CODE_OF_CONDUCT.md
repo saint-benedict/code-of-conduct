@@ -83,3 +83,7 @@ However, those who wish to participate in the community, either by commenting on
 1. Pray for your enemies in the love of Christ.
 1. Make peace with your adversary before the sun sets.
 1. Never despair of God's mercy. 
+
+## 3. Attribution
+
+This code of conduct was taken from [The rule of St. Benedict, as your Code of Conduct](https://github.com/saint-benedict/code-of-conduct) which in turn was adapted from [SQLite's Code of conduct](https://web.archive.org/web/20181024103452/https://sqlite.org/codeofconduct.html).
