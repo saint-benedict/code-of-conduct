@@ -7,4 +7,4 @@ To know more about the reasons behind SQLite adopting the rule of St. Benedict, 
 
 Want to be listed here? open an issue!
 
-- https://gitlab.com/esavara/gpayments
+- https://gitlab.com/shackra/goimapnotify
