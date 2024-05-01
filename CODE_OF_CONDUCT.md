@@ -1,13 +1,11 @@
 # Code Of Conduct
 ## 1. Overview
 
-The developers elected to govern their interactions with each other, with their clients, and with the larger user community in accordance with the "instruments of good works" from chapter 4 of The Rule of St. Benedict. This code of conduct has proven its mettle in thousands of diverse communities for over 1,500 years, and has served as a baseline for many civil law codes since the time of Charlemagne.
+The developers elected to govern their interactions with each other, with their clients, and with the larger user community in accordance with the "instruments of good works" from chapter 4 of The Rule of St. Benedict (hereafter: "The Rule"). This code of conduct has proven its mettle in thousands of diverse communities for over 1,500 years, and has served as a baseline for many civil law codes since the time of Charlemagne.
 
-This rule is strict, and none are able to comply perfectly. Grace is readily granted for minor transgressions. All are encouraged to follow this rule closely, as in so doing they may expect to live happier, healthier, and more productive lives. The entire rule is good and wholesome, and yet we make no enforcement of the more introspective aspects.
+The Rule is strict, and none are able to comply perfectly. Grace is readily granted for minor transgressions. All are encourage to follow this rule closely, as in so doing they may expect to live happier, healthier, and more productive lives. The entire Rule is good and wholesome, and yet we make no enforcement of the more introspective aspects.
 
-Everyone is free to use the source code, object code, and/or documentation regardless of their opinion of and adherence to this rule. This project has been and continues to be completely free to everyone, without precondition.
-
-However, those who wish to participate in the community, either by commenting on the public mailing lists or by contributing patches or suggestions or in any other way, are expected to conduct themselves in a manner that honors the overarching spirit of the rule, even if they disagree with specific details. Polite and professional discussion is always welcomed, from anyone.
+We view The Rule as our promise to all users of this project of how the developers are expected to behave. This is a one-way promise, or covenant. In other words, the developers are saying: "We will treat you this way regardless of how you treat us."
 
 ## 2. The Rule
 
@@ -86,4 +84,4 @@ However, those who wish to participate in the community, either by commenting on
 
 ## 3. Attribution
 
-This code of conduct was taken from [The rule of St. Benedict, as your Code of Conduct](https://github.com/saint-benedict/code-of-conduct) which in turn was adapted from [SQLite's Code of conduct](https://web.archive.org/web/20181024103452/https://sqlite.org/codeofconduct.html).
+This code of conduct was taken from [The rule of St. Benedict, as your Code of Conduct](https://github.com/saint-benedict/code-of-conduct) which in turn was adapted from [SQLite's Code of conduct](https://web.archive.org/web/20181024103452/https://sqlite.org/codeofconduct.html) and now [Code of Ethics](https://sqlite.org/codeofethics.html).
