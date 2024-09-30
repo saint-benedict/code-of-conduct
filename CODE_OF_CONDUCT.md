@@ -1,7 +1,7 @@
 # Code Of Conduct
 ## 1. Overview
 
-The developers elected to govern their interactions with each other, with their clients, and with the larger user community in accordance with the "instruments of good works" from chapter 4 of The Rule of St. Benedict (hereafter: "The Rule"). This code of conduct has proven its mettle in thousands of diverse communities for over 1,500 years, and has served as a baseline for many civil law codes since the time of Charlemagne.
+The developers elected to govern their interactions with each other, with their clients, and with the larger user community in accordance with the "instruments of good works" from chapter 4 of The Rule of St. Benedict (hereafter: "The Rule"). This Rule has proven its mettle in thousands of diverse communities for over 1,500 years, and has served as a baseline for many civil law codes since the time of Charlemagne.
 
 The Rule is strict, and none are able to comply perfectly. Grace is readily granted for minor transgressions. All are encourage to follow this rule closely, as in so doing they may expect to live happier, healthier, and more productive lives. The entire Rule is good and wholesome, and yet we make no enforcement of the more introspective aspects.
 
