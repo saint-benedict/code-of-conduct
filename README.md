@@ -8,3 +8,4 @@ To know more about the reasons behind SQLite adopting the rule of St. Benedict, 
 Want to be listed here? open an issue!
 
 - https://gitlab.com/shackra/goimapnotify
+- all repositories of https://github.com/taciturnaxolotl use it (see https://github.com/saint-benedict/code-of-conduct/issues/1)
